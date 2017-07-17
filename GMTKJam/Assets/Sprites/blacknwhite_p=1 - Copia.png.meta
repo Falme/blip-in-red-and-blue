@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 68d4058fe08c59544a638df5357b93ef
+timeCreated: 1500164924
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blacknwhite_p=1 - Copia_0
+    21300002: blacknwhite_p=1 - Copia_1
+    21300004: blacknwhite_p=1 - Copia_2
+    21300006: blacknwhite_p=1 - Copia_3
+    21300008: blacknwhite_p=1 - Copia_4
+    21300010: blacknwhite_p=1 - Copia_5
+    21300012: blacknwhite_p=1 - Copia_6
+    21300014: blacknwhite_p=1 - Copia_7
+    21300016: blacknwhite_p=1 - Copia_8
+    21300018: blacknwhite_p=1 - Copia_9
+    21300020: blacknwhite_p=1 - Copia_10
+    21300022: blacknwhite_p=1 - Copia_11
+    21300024: blacknwhite_p=1 - Copia_12
+    21300026: blacknwhite_p=1 - Copia_13
+    21300028: blacknwhite_p=1 - Copia_14
+    21300030: blacknwhite_p=1 - Copia_15
+    21300032: blacknwhite_p=1 - Copia_16
+    21300034: blacknwhite_p=1 - Copia_17
+    21300036: blacknwhite_p=1 - Copia_18
+    21300038: blacknwhite_p=1 - Copia_19
+    21300040: blacknwhite_p=1 - Copia_20
+    21300042: blacknwhite_p=1 - Copia_21
+    21300044: blacknwhite_p=1 - Copia_22
+    21300046: blacknwhite_p=1 - Copia_23
+    21300048: blacknwhite_p=1 - Copia_24
+    21300050: blacknwhite_p=1 - Copia_25
+    21300052: blacknwhite_p=1 - Copia_26
+    21300054: blacknwhite_p=1 - Copia_27
+    21300056: blacknwhite_p=1 - Copia_28
+    21300058: blacknwhite_p=1 - Copia_29
+    21300060: blacknwhite_p=1 - Copia_30
+    21300062: blacknwhite_p=1 - Copia_31
+    21300064: blacknwhite_p=1 - Copia_32
+    21300066: blacknwhite_p=1 - Copia_33
+    21300068: blacknwhite_p=1 - Copia_34
+    21300070: blacknwhite_p=1 - Copia_35
+    21300072: blacknwhite_p=1 - Copia_36
+    21300074: blacknwhite_p=1 - Copia_37
+    21300076: blacknwhite_p=1 - Copia_38
+    21300078: blacknwhite_p=1 - Copia_39
+    21300080: blacknwhite_p=1 - Copia_40
+    21300082: blacknwhite_p=1 - Copia_41
+    21300084: blacknwhite_p=1 - Copia_42
+    21300086: blacknwhite_p=1 - Copia_43
+    21300088: blacknwhite_p=1 - Copia_44
+    21300090: blacknwhite_p=1 - Copia_45
+    21300092: blacknwhite_p=1 - Copia_46
+    21300094: blacknwhite_p=1 - Copia_47
+    21300096: blacknwhite_p=1 - Copia_48
+    21300098: blacknwhite_p=1 - Copia_49
+    21300100: blacknwhite_p=1 - Copia_50
+    21300102: blacknwhite_p=1 - Copia_51
+    21300104: blacknwhite_p=1 - Copia_52
+    21300106: blacknwhite_p=1 - Copia_53
+    21300108: blacknwhite_p=1 - Copia_54
+    21300110: blacknwhite_p=1 - Copia_55
+    21300112: blacknwhite_p=1 - Copia_56
+    21300114: blacknwhite_p=1 - Copia_57
+    21300116: blacknwhite_p=1 - Copia_58
+    21300118: blacknwhite_p=1 - Copia_59
+    21300120: blacknwhite_p=1 - Copia_60
+    21300122: blacknwhite_p=1 - Copia_61
+    21300124: blacknwhite_p=1 - Copia_62
+    21300126: blacknwhite_p=1 - Copia_63
+    21300128: blacknwhite_p=1 - Copia_64
+    21300130: blacknwhite_p=1 - Copia_65
+    21300132: blacknwhite_p=1 - Copia_66
+    21300134: blacknwhite_p=1 - Copia_67
+    21300136: blacknwhite_p=1 - Copia_68
+    21300138: blacknwhite_p=1 - Copia_69
+    21300140: blacknwhite_p=1 - Copia_70
+    21300142: blacknwhite_p=1 - Copia_71
+    21300144: blacknwhite_p=1 - Copia_72
+    21300146: blacknwhite_p=1 - Copia_73
+    21300148: blacknwhite_p=1 - Copia_74
+    21300150: blacknwhite_p=1 - Copia_75
+    21300152: blacknwhite_p=1 - Copia_76
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 212
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 236
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 160
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 164
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 164
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 116
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 116
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 120
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 112
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 116
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_44
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 56
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_57
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 88
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 84
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 80
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_61
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_62
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 72
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_63
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_64
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 64
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_67
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_69
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_70
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 56
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_76
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blacknwhite_p=1 - Copia_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
